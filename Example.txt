@@ -1,0 +1,27 @@
+Quick Lorem Ipsum example:
+Below is the most common version of the so-called Lorem Ipsum snippet that you are free to copy. This version has been around since the 1500s, even though it technically is “corrupted” and doesn’t match the original Latin text from which it was derived. However, that is part of the humor and intrigue that has been associated with Lipsum for many years, which is why many different versions exist.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+The above paragraph has become extremely common over the centuries. However, when the need arises for longer versions of Lorem Ipsum, some people prefer repeating this paragraph several times, while others prefer a non-repeating passage. In these longer versions is usually where you might see more variation, because different Lipsum generators and sources take many different approaches to extending the text.
+
+What is Lorem Ipsum exactly, and what purpose does it serve?
+Lorem Ipsum is a popular “dummy” text used by publishers, bloggers, designers, and the typesetting industry. It is typically used to fill out space in any given print or web layout in order to test how things look with some example content.
+
+Here is a summary from Wikipedia:
+
+Lorem ipsum (/ˌlɔː.rəm ˈɪp.səm/) is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. It is also used to temporarily replace text in a process called greeking, which allows designers to consider the form of a webpage or publication, without the meaning of the text influencing the design.
+
+What does “Lorem Ipsum” mean? It is just gibberish?
+Contrary to popular belief — and this was misunderstood for decades in the United States and elsewhere — Lorem Ipsum does actually mean something in the Latin language; it is a truncated version of the phrase dolorem ipsum which means “pain itself”, which first appeared in the 1st century BC text known as De finibus bonorum et malorum, written by Roman philosopher and statesman, Cicero.
+
+However, over the centuries, as the text was replicated and passed around, and especially after publishers and typesetters began using Lipsum as a placeholder text, the original words became distorted into the (now) common version that first emerged during the 1500s. This was also possibly influenced by typesetters attempting to simplify the Latin text to make it easier to produce, and/or more aesthetically pleasing.
+
+So while dolorem ipsum does have a real meaning in Latin, the complete Lorem Ipsum passages that you might come across online, or in print, most likely contain some corrupted sentences at best, or nonsensical writing at worst.
+
+Lorem Ipsum history and why did it become popular?
+It’s rather incredible that we are still using a Latin text from over 2,000+ years ago for our web design and publishing needs, isn’t it? But how this ancient text became commonly used is an interesting story.
+
+The first widely recognized occurrence of Lipsum being used in the modern world was when a British company called Letraset began using the snippets during the 1960s as part of their print advertisements for the popular transfer sheets they were selling at the time.
+
+Later on, Lorem Ipsum was introduced to the digital world when Aldus Corporation’s famous PageMaker software, made for the Apple Macintosh computer, started using it as a placeholder text. This pretty much solidified Lipsum’s usage among word processors and WYSIWYG editors as many followed suit in years thereafter, including Microsoft Word, Apple Pages, and CMS applications such as Joomla and WordPress.
